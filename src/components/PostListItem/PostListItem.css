@@ -1,0 +1,35 @@
+.product-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.product-box2{
+    width: 300px;
+    height: 450px;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    margin: 30px;
+    background: rgba(5, 5, 5, 0.7);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+span{
+    color: white;
+    font-size: 25px;
+}
+button{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+}
+h6{
+    color: white;
+    font-size: 13px;
+    background-color: rgb(255, 255, 0, 0.1);
+    border-radius: 20px;
+    padding: 10px ;
+}

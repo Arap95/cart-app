@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 40px;
+    background-color: gold;
+    /* background: url('https://logos-world.net/wp-content/uploads/2020/04/Kentucky-Fried-Chicken-Logo-1952-1978.png'); */
+}
+img{
+    width: 250px;
+    height: 100px;
+}
+h1{
+    color: rgb(173, 3, 3);
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: yellow;
+}
+p{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: green;
+    margin: 0px 10px;
+    padding: 5px 10px;
+    color:  white;
+}

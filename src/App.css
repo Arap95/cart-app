@@ -1,0 +1,12 @@
+body{
+    background: url('https://d1ralsognjng37.cloudfront.net/2a74c64c-c473-4abb-a263-1051f38e503e.jpeg') center/cover;
+    margin: 0 auto;
+    padding: 50px;
+}
+.menu{
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0px 40px;
+}
